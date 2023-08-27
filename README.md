@@ -1,4 +1,1 @@
-16
-he/him
-Learning C++
-Gaming Enthusiast
+16, he/him
