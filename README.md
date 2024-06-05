@@ -2,5 +2,5 @@
 
 👨‍🎓 Computer Science Student\
 🌱 I'm currently learning C++\
-...
+⚡ There are over 700 different programming languages
 
