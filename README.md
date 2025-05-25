@@ -2,5 +2,5 @@
 
 ➜ Hello World!  
 ➜ Computer science enthusiast passionate about building and learning.  
-‎ ‎ ‎ ‎ ‎ Currently exploring the world of Python and sharpening development skills.  
-‎ ‎ ‎ ‎‎  Always curious. Always learning.
+Currently exploring the world of Python and sharpening development skills.  
+Always curious. Always learning.
