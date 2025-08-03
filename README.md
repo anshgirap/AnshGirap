@@ -2,4 +2,4 @@
 ---
 ➜ Hello World!  
 ➜ Computer science enthusiast, passionate about building and learning.  
-➜ Currently exploring the world of Machine Learning and sharpening development skills. 
+➜ Currently exploring the world of Machine Learning and sharpening development skills.
