@@ -2,7 +2,7 @@
 
 
 • Hello World!  
-• Computer science enthusiast, driven by innovation.  
+• Computer science enthusiast, driven by Innovation.  
 • Exploring Machine Learning with a touch of UI/UX.
 
 ---
