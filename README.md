@@ -2,8 +2,8 @@
 
 
 • Hello World!  
-• Computer science enthusiast, passionate about building and learning.  
-• Currently exploring the world of Machine Learning and sharpening development skills.  
+• Computer science enthusiast, driven by innovation.  
+• Exploring Machine Learning with a touch of UI/UX.
 
 ---
 
