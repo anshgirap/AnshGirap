@@ -1,13 +1,9 @@
 ![Header github](https://github.com/AnshGirap/AnshGirap/assets/143279039/a497cf8d-6a53-4816-a9b5-71f02913fbee)
-
----
-
+<hr style="height:1px; border:none; background:#e0e0e0; margin:16px 0;" />
 • Hello World!  
 • Computer science enthusiast, passionate about building and learning.  
 • Currently exploring the world of Machine Learning and sharpening development skills.  
-
----
-
+<hr style="height:1px; border:none; background:#e0e0e0; margin:16px 0;" />
 ### • Skills:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="35" height="35"/> &nbsp;
