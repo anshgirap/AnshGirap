@@ -9,7 +9,7 @@
 
 ### • Tech Stack
 
-#### ‧ Languages
+#### Languages:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="35" height="35"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="35" height="35"/> &nbsp;
@@ -18,12 +18,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="35" height="35"/> &nbsp;
 </p>
 
-#### ‧ Database
+#### Database:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="47" height="47"/> &nbsp;
 </p>
 
-#### ‧ Libraries & Frameworks
+#### Libraries & Frameworks:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="35" height="35"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="35" height="35"/> &nbsp;
@@ -33,7 +33,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="35" height="35"/> &nbsp;
 </p>
 
-#### ‧ Tools
+####  Tools:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="35" height="35"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="35" height="35"/> &nbsp;
+  <img src="https://stickpng.com/img/icons-logos-emojis/tech-companies/canva-logo" alt="Canva" width="35" height="35"/> &nbsp;
 </p>
+
