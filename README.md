@@ -37,6 +37,6 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="35" height="35"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="35" height="35"/> &nbsp;
-  <img src="https://stickpng.com/img/icons-logos-emojis/tech-companies/canva-logo" alt="Canva" width="35" height="35"/> &nbsp;
+  <img src="assets/icons/canva.svg" alt="Canva" width="35" height="35"/> &nbsp;
 </p>
 
