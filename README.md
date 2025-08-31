@@ -1,15 +1,15 @@
 ![Header github](https://github.com/AnshGirap/AnshGirap/assets/143279039/a497cf8d-6a53-4816-a9b5-71f02913fbee)
 
 
-#### • Hello World! <br>
-#### • Computer Science undergrad, driven by innovation. <br>
-#### • Exploring Machine Learning with a touch of UI/UX.
+• Hello World! <br>
+• Computer Science undergrad, driven by innovation. <br>
+• Exploring Machine Learning with a touch of UI/UX.
 
 ---
 
-### • Tech Stack
+#### • Tech Stack
 
-#### Languages:
+Languages:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="35" height="35"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="35" height="35"/> &nbsp;
@@ -19,7 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="47" height="47"/> &nbsp;
 </p>
 
-#### Libraries & Frameworks:
+Libraries & Frameworks:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="35" height="35"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="35" height="35"/> &nbsp;
