@@ -1,9 +1,8 @@
 ![Header github](https://github.com/AnshGirap/AnshGirap/assets/143279039/a497cf8d-6a53-4816-a9b5-71f02913fbee)
 
-
-### Hello World!
+### Hello World! 
 Computer Science undergrad exploring Machine Learning with a touch of UI/UX.  
-Driven by curiosity, building skills one project at a time. 
+Driven by curiosity, building skills one project at a time.  
 
 ---
 
