@@ -1,16 +1,12 @@
-<p align="center">
-  <img src="https://github.com/AnshGirap/AnshGirap/assets/143279039/a497cf8d-6a53-4816-a9b5-71f02913fbee" alt="Header" />
-</p>
+![Header github](https://github.com/AnshGirap/AnshGirap/assets/143279039/a497cf8d-6a53-4816-a9b5-71f02913fbee)
 
-<h3 align="center">Hello World!</h3>
-<p align="center">
-  Computer Science undergrad exploring Machine Learning with a touch of UI/UX.<br>
-  Driven by curiosity, building skills one project at a time.
-</p>
+### Hello World!
+Computer Science undergrad exploring Machine Learning with a touch of UI/UX.  
+Driven by curiosity, building skills one project at a time.  
 
 ---
 
-<h4 align="center">Technologies</h4>
+#### Technologies
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="35" height="35"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="35" height="35"/> &nbsp;
@@ -21,7 +17,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="35" height="35"/> &nbsp;
 </p>
 
-<h4 align="center">Libraries & Frameworks</h4>
+#### Libraries & Frameworks
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="35" height="35"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="35" height="35"/> &nbsp;
