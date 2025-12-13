@@ -6,19 +6,19 @@ I focus on building a strong technical foundation through consistent, hands-on w
 
 ---
 
-#### Areas of Focus
+#### ✱ Areas of Focus
 • Data analysis and visualization  
 • Applied machine learning  
 • Clean, functional interface design  
 
 ---
 
-#### Tools
+#### ✱ Tools
 Python · C++ · HTML · CSS · MySQL  
 NumPy · Pandas · Matplotlib · Seaborn · scikit-learn  
 Figma
 
 ---
 
-#### Note
+#### ✱ Note
 This profile reflects active learning and ongoing refinement.
