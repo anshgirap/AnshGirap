@@ -15,15 +15,14 @@ I focus on understanding systems deeply, not just getting them to work.
 
 #### ✱ Tools
 <p align="left">
-  <img src="https://cdn.simpleicons.org/python/6e6e6e" height="28" />
-  <img src="https://cdn.simpleicons.org/cplusplus/6e6e6e" height="28" />
-  <img src="https://cdn.simpleicons.org/html5/6e6e6e" height="28" />
-  <img src="https://cdn.simpleicons.org/css3/6e6e6e" height="28" />
-  <img src="https://cdn.simpleicons.org/mysql/6e6e6e" height="28" />
-  <img src="https://cdn.simpleicons.org/numpy/6e6e6e" height="28" />
-  <img src="https://cdn.simpleicons.org/pandas/6e6e6e" height="28" />
-  <img src="https://cdn.simpleicons.org/scikitlearn/6e6e6e" height="28" />
-  <img src="https://cdn.simpleicons.org/figma/6e6e6e" height="28" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height="30" style="filter: grayscale(100%) opacity(0.75);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="30" style="filter: grayscale(100%) opacity(0.75);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="30" style="filter: grayscale(100%) opacity(0.75);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" height="30" style="filter: grayscale(100%) opacity(0.75);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-plain.svg" height="30" style="filter: grayscale(100%) opacity(0.75);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-plain.svg" height="30" style="filter: grayscale(100%) opacity(0.75);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-plain.svg" height="30" style="filter: grayscale(100%) opacity(0.75);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-plain.svg" height="30" style="filter: grayscale(100%) opacity(0.75);" />
 </p>
 
 ---
