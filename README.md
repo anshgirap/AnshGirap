@@ -15,16 +15,16 @@ I focus on understanding systems deeply, not just getting them to work.
 
 #### ✱ Tools
 <p align="left">
-  <img src="https://cdn.simpleicons.org/python/7a7a7a" height="26" />
-  <img src="https://cdn.simpleicons.org/cplusplus/7a7a7a" height="26" />
-  <img src="https://cdn.simpleicons.org/html5/7a7a7a" height="26" />
-  <img src="https://cdn.simpleicons.org/css/7a7a7a" height="26" />
-  <img src="https://cdn.simpleicons.org/javascript/7a7a7a" height="26" />
-  <img src="https://cdn.simpleicons.org/mysql/7a7a7a" height="26" />
-  <img src="https://cdn.simpleicons.org/numpy/7a7a7a" height="26" />
-  <img src="https://cdn.simpleicons.org/pandas/7a7a7a" height="26" />
-  <img src="https://cdn.simpleicons.org/scikitlearn/7a7a7a" height="26" />
-  <img src="https://cdn.simpleicons.org/figma/7a7a7a" height="26" />
+  <img src="https://cdn.simpleicons.org/python/7a7a7a" height="30" />
+  <img src="https://cdn.simpleicons.org/cplusplus/7a7a7a" height="30" />
+  <img src="https://cdn.simpleicons.org/html5/7a7a7a" height="30" />
+  <img src="https://cdn.simpleicons.org/css/7a7a7a" height="30" />
+  <img src="https://cdn.simpleicons.org/javascript/7a7a7a" height="30" />
+  <img src="https://cdn.simpleicons.org/mysql/7a7a7a" height="30" />
+  <img src="https://cdn.simpleicons.org/numpy/7a7a7a" height="30" />
+  <img src="https://cdn.simpleicons.org/pandas/7a7a7a" height="30" />
+  <img src="https://cdn.simpleicons.org/scikitlearn/7a7a7a" height="30" />
+  <img src="https://cdn.simpleicons.org/figma/7a7a7a" height="30" />
 </p>
 
 ---
