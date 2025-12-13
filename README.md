@@ -18,7 +18,7 @@ I focus on understanding systems deeply, not just getting them to work.
   <img src="https://cdn.simpleicons.org/python/7a7a7a" height="26" />
   <img src="https://cdn.simpleicons.org/cplusplus/7a7a7a" height="26" />
   <img src="https://cdn.simpleicons.org/html5/7a7a7a" height="26" />
-  <img src="https://cdn.simpleicons.org/css3/7a7a7a" height="26" />
+  <img src="https://cdn.simpleicons.org/css/7a7a7a" height="26" />
   <img src="https://cdn.simpleicons.org/javascript/7a7a7a" height="26" />
   <img src="https://cdn.simpleicons.org/mysql/7a7a7a" height="26" />
   <img src="https://cdn.simpleicons.org/numpy/7a7a7a" height="26" />
