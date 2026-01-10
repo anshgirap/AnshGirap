@@ -4,14 +4,14 @@
 Computer Science undergraduate working with data analysis, machine learning, and interface design.  
 I focus on understanding systems deeply, not just getting them to work.
 
----
+[---](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 #### ✱ Areas of Focus
 • Data analysis and visualization  
 • Applied machine learning  
 • Clean, functional interface design  
 
----
+[---](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 #### ✱ Tools
 <p align="left">
@@ -27,7 +27,7 @@ I focus on understanding systems deeply, not just getting them to work.
   <img src="https://cdn.simpleicons.org/figma/7a7a7a" height="30" />
 </p>
 
----
+[---](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 #### ✱ Approach
 I prioritize clarity, correctness, and fundamentals over speed or trend-chasing.
