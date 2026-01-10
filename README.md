@@ -4,7 +4,7 @@
 Computer Science undergraduate working with data analysis, machine learning, and interface design.  
 I focus on understanding systems deeply, not just getting them to work.
 
-![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+![](https://tenor.com/en-IN/view/divider-mandala-black-and-white-bw-circle-gif-2172447202748211300)
 
 #### ✱ Areas of Focus
 • Data analysis and visualization  
