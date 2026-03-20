@@ -9,7 +9,7 @@ I focus on understanding systems deeply, not just getting them to work.
 #### ✱ Areas of Focus
 • Data analysis and visualization  
 • Applied machine learning  
-• Clean, functional interface design  
+• UI/UX 
 
 ---
 
